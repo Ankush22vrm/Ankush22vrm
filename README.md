@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ankush22vrm
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning C/C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web development,ML and DSA
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me vermaankush589@gmail.com
   
 
